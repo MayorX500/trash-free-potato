@@ -96,3 +96,6 @@ Issues found with the Dockerized approach.
 * [Visual Paradigm legal info](https://www.visual-paradigm.com/aboutus/legal.jsp).
 
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
