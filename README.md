@@ -80,6 +80,7 @@ My currently running machines.
 |Status| OS and Kernel             | Visual Paradigm Version | Docker Version|
 |-|-|-|-|
 |![#0a192f](https://via.placeholder.com/10/32a846?text=+) Running| Linux 6.5.5-arch1-1 | Visual Paradigm Standard 17.0 | Docker version 24.0.5|
+|![#0a192f](https://via.placeholder.com/10/32a846?text=+) Running| Linux 6.5.2-arch1-1-g14 | Visual Paradigm Standard 17.0 | Docker version 24.0.5|
 
 ## Known Issues
 
